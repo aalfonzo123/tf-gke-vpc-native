@@ -1,0 +1,6 @@
+network={
+    project-id="meijer-gcp-core-842352947916e",
+    vpc-name="vpc-1"
+    subnetwork-name = "subnet-1"
+    region = "us-east4"
+}
